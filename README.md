@@ -1,15 +1,19 @@
 # Kiah's Place
+(Angela Yu's bootcamp fullstack web development journey)
 
-A mini project for my 1st born daughter. will enhance soon.
-This is under the Udemy Course by Angela Yu.
+- One of the projects related to the fullstack web development bootcamp.
 
-# Authors
-- [@MaynardRT](https://github.com/MaynardRT)
+## ✅ Features
+- 
 
-# Contributing
+## </> Authors
+- [@MaynardRT](https://github.com/MaynardRT) - Developer
+
+## 🧑‍💻 Contributing
 Contributions are always welcome!
+Feel free to to clone or fork this repo.
 
 Please adhere to this project's `code of conduct`.
 
-# 🚀 About Me
-I'm a Iron-Dev...
+## 🚀 About Me
+___Hi, I’m Nard—a full-stack software engineer specializing in web development technologies, including frontend and backend frameworks, with a strong interest in Artificial Intelligence and its applications in modern software solutions._
